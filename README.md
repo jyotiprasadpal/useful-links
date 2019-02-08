@@ -24,13 +24,20 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
 ## Design patterns & SOLID principles
 
 ## Javascript
-- ### Blogs
-  - [2ality – JavaScript and more](http://2ality.blogspot.com/)
+   - ### Blogs
+     - [2ality – JavaScript and more](http://2ality.blogspot.com/)
   
-- ### Books
-  -  
+   - ### Books
+     - sdds
   
 ## Angular
-
+   - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)
+   - [The Angular Library Series - Creating a Library with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+   - [How to build a library for Angular apps?](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
+   - [Building an Angular 4 Component Library with the Angular CLI and ng-packagr](https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
+   - [Building and publishing Angular libraries using Angular CLI](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
+   - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
+   - [How to create library for Angular(2+) and publish to npm from scratch.](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+   
 ## C#, .NET
 
