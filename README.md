@@ -8,6 +8,7 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
 ##Design patterns & SOLID principles
 
 ##Javascript
+
 [2ality](http://2ality.blogspot.com/)
 
 ##Angular
