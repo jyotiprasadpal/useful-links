@@ -2,7 +2,9 @@
 Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring developer
 
 ## Data structures and algorithms
-
+   - [leetcode](https://leetcode.com/problemset/all/)
+   - [geeksforgeeks](https://www.geeksforgeeks.org/)
+   
 ## Object oriented programming
 
 ## Functional programming
@@ -22,13 +24,22 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
   - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
   
 ## Design patterns & SOLID principles
+   - [Design Patterns](https://www.oodesign.com/)
+   - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
+   - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
 
-## Javascript
-   - ### Blogs
-     - [2ality – JavaScript and more](http://2ality.blogspot.com/)
-  
+## Javascript   
+   - [2ality – JavaScript and more](http://2ality.blogspot.com/)
+   - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+   - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
+   - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
+   
    - ### Books
-     - sdds
+     - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
+     - [speakingjs](http://speakingjs.com/es5/)
+     - [Exploring ES6](http://exploringjs.com/es6.html)
+     - [Understanding ECMASCRIPT 6](https://leanpub.com/understandinges6/read)
+     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   
 ## Angular
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)
@@ -38,6 +49,7 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
    - [Building and publishing Angular libraries using Angular CLI](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
    - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
    - [How to create library for Angular(2+) and publish to npm from scratch.](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+   - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
    
 ## C#, .NET
 
