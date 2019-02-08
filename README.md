@@ -1,17 +1,17 @@
-# useful-links
+# Useful links
 Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring developer
 
-##Object oriented programming
+## Object oriented programming
 
-##Functional programming
+## Functional programming
 
-##Design patterns & SOLID principles
+## Design patterns & SOLID principles
 
-##Javascript
+## Javascript
 
 [2ality](http://2ality.blogspot.com/)
 
-##Angular
+## Angular
 
-##C#, .NET
+## C#, .NET
 
