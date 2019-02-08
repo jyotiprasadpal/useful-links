@@ -1,4 +1,4 @@
-# Useful links
+# **Useful links**
 Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring developer
 
 ## Data structures and algorithms
@@ -42,6 +42,9 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
      - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   
 ## Angular
+   - [ANGULAR ARTICLES](https://blog.thoughtram.io/categories/angular-2/)
+   - [Angular in depth](https://blog.angularindepth.com/)
+   - [Angular in depth - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/@maxim.koretskyi)
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)
    - [The Angular Library Series - Creating a Library with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
    - [How to build a library for Angular apps?](https://medium.com/@tomsu/how-to-build-a-library-for-angular-apps-4f9b38b0ed11)
@@ -50,6 +53,7 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
    - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
    - [How to create library for Angular(2+) and publish to npm from scratch.](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
    - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
+   - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
    
 ## C#, .NET
 
