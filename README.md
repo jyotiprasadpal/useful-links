@@ -1,5 +1,5 @@
 # **Useful links**
-Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring developer
+Useful links for Javascript, Typescript, Angular, Java, Spring, C#, .NET developer
 
 ## Data structures and algorithms
    - [leetcode](https://leetcode.com/problemset/all/)
@@ -33,6 +33,8 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
    - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
    - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
    - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
+   - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
+   - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
@@ -42,7 +44,7 @@ Useful links for C#, .NET, Javascript, Typescript, Angular, Java, Spring develop
      - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
   
 ## Angular
-   - [ANGULAR ARTICLES](https://blog.thoughtram.io/categories/angular-2/)
+   - [ANGULAR ARTICLES - thoughtram](https://blog.thoughtram.io/categories/angular-2/)
    - [Angular in depth](https://blog.angularindepth.com/)
    - [Angular in depth - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/@maxim.koretskyi)
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)
