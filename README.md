@@ -50,7 +50,7 @@ Useful resources for a software developer
    - ### Tools
      - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2)
      - [VS code](https://code.visualstudio.com/)
-     - [The online IDE for web applications. Powered by Visual Studio Code.](https://stackblitz.com/)
+     - [The online IDE for web applications](https://stackblitz.com/)
      - [caniuse](https://caniuse.com/)
      - [Postman (@postmanclient)](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   
