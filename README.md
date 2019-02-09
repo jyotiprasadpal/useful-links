@@ -66,7 +66,7 @@ Useful resources for a software developer
    - ### Books
      - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
          
-## Javascript
+## Javascript/Typescript
    - ### Blogs/Articles/Tutorials
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
@@ -89,6 +89,11 @@ Useful resources for a software developer
      - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
      
      Garbage collection/Memory management
+     
+     Enums in Javascript/Typescript
+     - [Understanding Enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
+     
+     Immutability
      
      Zones
      
@@ -124,9 +129,11 @@ Useful resources for a software developer
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)   
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
    
-   Components
+   Directives/Components
+   - [Here is why you will not find components inside Angular](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
    - [Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
    - [Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+   - [The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
    
    Modules
    - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
