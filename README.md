@@ -30,12 +30,16 @@ Useful resources for a software developer
 
 ## Javascript
    - ### Blogs/Articles
+     - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
+     - [Douglas Crockford](https://www.crockford.com/)
+     
+     Event loop
      - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
      - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
      - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
      - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
-     - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)
+     - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
@@ -51,6 +55,10 @@ Useful resources for a software developer
      - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2)
      - [VS code](https://code.visualstudio.com/)
      - [The online IDE for web applications](https://stackblitz.com/)
+     - [emmet](https://emmet.io/)
+     - [jsoneditoronline](https://jsoneditoronline.org/)
+     - [emmet](https://emmet.io/)
+     - [emmet-cheat-sheet](https://docs.emmet.io/cheat-sheet/)
      - [caniuse](https://caniuse.com/)
      - [Postman (@postmanclient)](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en)
   
@@ -67,10 +75,25 @@ Useful resources for a software developer
    - [How to create library for Angular(2+) and publish to npm from scratch.](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
    - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
+
+## Java
    
+## Java - Spring
+
 ## C#, .NET
    - ### Threading
      - [Threading in C# - Joseph Albahari](http://www.albahari.com/threading/)
      - [Parallel Programming in .NET Framework 4: Getting Started -  Alexandra Rusina](https://blogs.msdn.microsoft.com/csharpfaq/2010/06/01/parallel-programming-in-net-framework-4-getting-started/)
      - [Parallel Programming in .NET](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
+   
+   - ### Tools
+     - [Visual Studio](https://visualstudio.microsoft.com/)
+     - [Regex](http://regexstorm.net/) 
 
+## Unix, Linux
+   - [PuTTY](https://www.putty.org/)
+   
+## Others
+   - [Notepad++](https://notepad-plus-plus.org/)
+   - [Greenshot](https://getgreenshot.org/)
+   - [Everything](https://www.voidtools.com/)
