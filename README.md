@@ -2,8 +2,18 @@
 Useful resources for a software developer
 
 ## Data structures and algorithms
-   - [leetcode](https://leetcode.com/problemset/all/)
-   - [geeksforgeeks](https://www.geeksforgeeks.org/)
+   - ### Blogs/Artilces/Tutorials
+     
+         
+   - ### Video courses
+        
+         
+   - ### Books
+         - [Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N32J05C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1549697476&sr=1-1&keywords=data+structures+and+algorithms+made+easy+in+java)
+         
+   - ### Questions to practice
+         - [leetcode](https://leetcode.com/problemset/all/)
+         - [geeksforgeeks](https://www.geeksforgeeks.org/)
    
 ## Object oriented programming
 
@@ -23,13 +33,21 @@ Useful resources for a software developer
   - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
   - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
   
+  - ### Books
+        - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
+        - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
+      
 ## Design patterns & SOLID principles
-   - [Design Patterns](https://www.oodesign.com/)
-   - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
-   - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
-
+   - ### Blogs/Articles/Tutorials
+         - [Design Patterns](https://www.oodesign.com/)
+         - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
+         - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
+   
+   - ### Books
+         - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
+         
 ## Javascript
-   - ### Blogs/Articles
+   - ### Blogs/Articles/Tutorials
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
      - [Douglas Crockford](https://www.crockford.com/)
@@ -38,24 +56,32 @@ Useful resources for a software developer
      - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
      - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
      - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
+     
+     Iterators and Generators
      - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
      - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
+     
+     Garbage collection
+     
+     Zones
+     
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
      - [speakingjs](http://speakingjs.com/es5/)
      - [Exploring ES6](http://exploringjs.com/es6.html)
      - [Understanding ECMASCRIPT 6](https://leanpub.com/understandinges6/read)
-     - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-     - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+     - [You-Dont-Know-JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)     
      - [javascript-allonge](https://github.com/raganwald/javascript-allonge)
      - [javascript-allonge](https://leanpub.com/javascriptallongesix/read)
+     - [JavaScript-Good-Parts-Crockford](https://www.amazon.in/JavaScript-Good-Parts-Crockford/dp/8184045220/ref=pd_sbs_14_1/262-6653888-8056237?_encoding=UTF8&pd_rd_i=8184045220&pd_rd_r=e925943b-2c3a-11e9-873e-89a095b53bef&pd_rd_w=vuVBF&pd_rd_wg=4B0EO&pf_rd_p=87667aae-831c-4952-ab47-0ae2a4d747da&pf_rd_r=79FYB1A6VPCBWBADCZQ1&psc=1&refRID=79FYB1A6VPCBWBADCZQ1)
+     - [How-JavaScript-Works-Douglas-Crockford](https://www.amazon.in/How-JavaScript-Works-Douglas-Crockford/dp/1949815005)
+     - [Professional JavaScript for Web Developers - Nicholas-Zakas](https://www.amazon.in/Professional-JavaScript-Developers-Nicholas-Zakas-ebook/dp/B006PW2URI)
      
    - ### Tools
      - [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/?utm_source=dcc&utm_medium=redirect&utm_campaign=2018Q2)
      - [VS code](https://code.visualstudio.com/)
      - [The online IDE for web applications](https://stackblitz.com/)
-     - [emmet](https://emmet.io/)
      - [jsoneditoronline](https://jsoneditoronline.org/)
      - [emmet](https://emmet.io/)
      - [emmet-cheat-sheet](https://docs.emmet.io/cheat-sheet/)
@@ -77,8 +103,25 @@ Useful resources for a software developer
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
 
 ## Java
+   - ### Blogs/Artilces/Tutorials
+         - [Java Tutorial](https://www.tutorialspoint.com/java/)         
+         - [luv2code - Chad Darby](http://www.luv2code.com/)
+         
+   - ### Video courses
+        
+         
+   - ### Books
+         - [Java Concurrency in Practice - Brian Goetz](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086702&sr=1-1&keywords=java+concurrency&linkCode=sl1&tag=luv2code-20&linkId=ea2d7fe7e39d5125d5302517c5d72c15)
    
-## Java - Spring
+## Java - Spring/Spring-Boot
+   - ### Blogs/Artilces/Tutorials
+         - [Spring Tutorial](https://www.tutorialspoint.com/spring/)
+         - [Spring Boot Tutorial](https://www.tutorialspoint.com/spring_boot/index.htm)
+         
+   - ### Video courses
+        
+         
+   - ### Books
 
 ## C#, .NET
    - ### Threading
@@ -92,7 +135,9 @@ Useful resources for a software developer
 
 ## Unix, Linux
    - [PuTTY](https://www.putty.org/)
-   
+
+## SDLC
+
 ## Others
    - [Notepad++](https://notepad-plus-plus.org/)
    - [Greenshot](https://getgreenshot.org/)
