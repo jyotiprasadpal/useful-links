@@ -116,12 +116,17 @@ Useful resources for a software developer
    - [ANGULAR ARTICLES - thoughtram](https://blog.thoughtram.io/categories/angular-2/)
    - [Angular in depth](https://blog.angularindepth.com/)
    - [Angular in depth - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/@maxim.koretskyi)
+   - [Top 10 Angular articles in 2017 from Angular-In-Depth you really want to read](https://blog.angularindepth.com/top-10-angular-articles-in-2017-from-angularindepth-you-really-want-to-read-153ae6e497d4)
    - [Best stories of 2018 on Angular-In-Depth](https://blog.angularindepth.com/best-stories-of-2018-on-angular-in-depth-80a1dfa17fd5)
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)   
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
    
-   Component communication
+   Components
    - [Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
+   - [Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+   
+   Modules
+   - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
    
    DOM manipulation
    - [Understanding @ViewChildren, @ViewChild, @ContentChildren and @ContentChild](https://medium.com/@tkssharma/understanding-viewchildren-viewchild-contentchildren-and-contentchild-b16c9e0358e)
@@ -156,6 +161,15 @@ Useful resources for a software developer
    - [Building an Angular 4 Component Library with the Angular CLI and ng-packagr](https://medium.com/@nikolasleblanc/building-an-angular-4-component-library-with-the-angular-cli-and-ng-packagr-53b2ade0701e)
    - [Building and publishing Angular libraries using Angular CLI](https://medium.com/@faxemaxee/building-and-publishing-angular-libraries-using-angular-cli-140057d21101)
    - [How to create library for Angular(2+) and publish to npm from scratch.](https://hackernoon.com/how-to-create-library-in-angular-2-and-publish-to-npm-from-scratch-f2b1272d6266)
+   
+   Angular compiler
+   - [A Deep, Deep, Deep, Deep, Deep Dive into the Angular Compiler](https://blog.angularindepth.com/a-deep-deep-deep-deep-deep-dive-into-the-angular-compiler-5379171ffb7a)
+   - [Inside Ivy: Exploring the New Angular Compiler](https://blog.angularindepth.com/inside-ivy-exploring-the-new-angular-compiler-ebf85141cee1)
+   - [Ivy engine in Angular: first in-depth look at compilation, runtime and change detection](https://blog.angularindepth.com/ivy-engine-in-angular-first-in-depth-look-at-compilation-runtime-and-change-detection-876751edd9fd)
+   
+   Debugging
+   - [Everything you need to know about debugging Angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
+   - [Angular Augury - A Chrome and Firefox Dev Tools extension for debugging Angular applications.](https://augury.rangle.io/)
    
 ## Java
    - ### Blogs/Artilces/Tutorials
