@@ -1,5 +1,5 @@
-# **Useful links**
-Useful links for Javascript, Typescript, Angular, Java, Spring, C#, .NET developer
+# **Useful resources**
+Useful resources for a software developer
 
 ## Data structures and algorithms
    - [leetcode](https://leetcode.com/problemset/all/)
@@ -28,13 +28,14 @@ Useful links for Javascript, Typescript, Angular, Java, Spring, C#, .NET develop
    - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
    - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
 
-## Javascript   
-   - [2ality – JavaScript and more](http://2ality.blogspot.com/)
-   - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-   - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
-   - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
-   - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
-   - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)
+## Javascript
+   - ### Blogs/Articles
+     - [2ality – JavaScript and more](http://2ality.blogspot.com/)
+     - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+     - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
+     - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
+     - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
+     - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
@@ -42,6 +43,12 @@ Useful links for Javascript, Typescript, Angular, Java, Spring, C#, .NET develop
      - [Exploring ES6](http://exploringjs.com/es6.html)
      - [Understanding ECMASCRIPT 6](https://leanpub.com/understandinges6/read)
      - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+     - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+     - [javascript-allonge](https://github.com/raganwald/javascript-allonge)
+     - [javascript-allonge](https://leanpub.com/javascriptallongesix/read)
+     
+   - ### Tools
+     - [caniuse](https://caniuse.com/)
   
 ## Angular
    - [ANGULAR ARTICLES - thoughtram](https://blog.thoughtram.io/categories/angular-2/)
@@ -58,4 +65,8 @@ Useful links for Javascript, Typescript, Angular, Java, Spring, C#, .NET develop
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
    
 ## C#, .NET
+   - ### Threading
+     - [Threading in C# - Joseph Albahari](http://www.albahari.com/threading/)
+     - [Parallel Programming in .NET Framework 4: Getting Started -  Alexandra Rusina](https://blogs.msdn.microsoft.com/csharpfaq/2010/06/01/parallel-programming-in-net-framework-4-getting-started/)
+     - [Parallel Programming in .NET](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/)
 
