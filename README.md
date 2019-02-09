@@ -3,8 +3,24 @@ Useful resources for a software developer
 
 ## Data structures and algorithms
    - ### Blogs/Artilces/Tutorials
+     Divide and Conquer
+     - [Divide and Conquer - geeksforgeeks](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
      
+     Dynamic programming
+     - [Dynamic Programming - geeksforgeeks](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
+     
+     Greedy algorithms
+     - [Greedy Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/greedy-algorithms/)
+     
+     Two pointer technique
+     - [Two pointer technique - leetcode](https://leetcode.com/articles/two-pointer-technique/)
+     - [Two pointer technique - geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+     - [Two pointer technique - hackerrank](https://www.hackerrank.com/challenges/pairs/topics)
          
+     Frequency counter technique
+     
+     Backtracking
+     
    - ### Video courses
         
          
