@@ -53,6 +53,12 @@ Useful resources for a software developer
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
      - [Douglas Crockford](https://www.crockford.com/)
      
+     Modules
+     
+     Protypical inheritance
+     
+     Mixins
+     
      Event loop
      - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
      - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
@@ -62,7 +68,7 @@ Useful resources for a software developer
      - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
      - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
      
-     Garbage collection
+     Garbage collection/Memory management
      
      Zones
      
@@ -112,6 +118,8 @@ Useful resources for a software developer
         
          
    - ### Books
+     - [Core Java Volume I--Fundamentals - Cay S. Horstmann](https://www.amazon.com/Core-Java-I--Fundamentals-10th/dp/0134177304/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453087521&sr=1-1&keywords=core+java&linkCode=sl1&tag=luv2code-20&linkId=6713661f03fe019a58dd60877819b8e6)
+     - [Core Java, Volume II--Advanced Features - Cay S. Horstmann](https://www.amazon.com/Core-Java-II--Advanced-Features-9th/dp/013708160X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453087563&sr=1-1&keywords=core+java+volume+ii&linkCode=sl1&tag=luv2code-20&linkId=dbaa37937d0a9a37dde4fb12d176e531)
      - [Java Concurrency in Practice - Brian Goetz](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086702&sr=1-1&keywords=java+concurrency&linkCode=sl1&tag=luv2code-20&linkId=ea2d7fe7e39d5125d5302517c5d72c15)
    
 ## Java - Spring/Spring-Boot
@@ -139,6 +147,9 @@ Useful resources for a software developer
 
 ## SDLC
 
+## Business domain
+   - [Bonds/Fixed Income](https://www.investopedia.com/bonds-fixed-income-4427786)
+   
 ## Others
    - [Notepad++](https://notepad-plus-plus.org/)
    - [Greenshot](https://getgreenshot.org/)
