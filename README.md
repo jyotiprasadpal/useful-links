@@ -9,42 +9,43 @@ Useful resources for a software developer
         
          
    - ### Books
-         - [Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N32J05C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1549697476&sr=1-1&keywords=data+structures+and+algorithms+made+easy+in+java)
+     - [Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N32J05C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1549697476&sr=1-1&keywords=data+structures+and+algorithms+made+easy+in+java)
          
    - ### Questions to practice
-         - [leetcode](https://leetcode.com/problemset/all/)
-         - [geeksforgeeks](https://www.geeksforgeeks.org/)
+     - [leetcode](https://leetcode.com/problemset/all/)
+     - [geeksforgeeks](https://www.geeksforgeeks.org/)
    
 ## Object oriented programming
 
 ## Functional programming
-  - [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-  - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
-  - [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
-  - [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
-  - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
-  - [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
-  - [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
-  - [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
-  - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/monads.html)
-  - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/03/implementing-monads-in-javascript.html)
-  - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-monad-laws-and-state-monad-in.html)
-  - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-promise-monad-in-javascript.html)
-  - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
-  - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
+   - ### Blogs/Articles/Tutorials
+     - [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+     - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
+     - [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
+     - [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
+     - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
+     - [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
+     - [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+     - [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/monads.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/03/implementing-monads-in-javascript.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-monad-laws-and-state-monad-in.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-promise-monad-in-javascript.html)
+     - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
   
   - ### Books
-        - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
-        - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
+    - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
+    - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
       
 ## Design patterns & SOLID principles
    - ### Blogs/Articles/Tutorials
-         - [Design Patterns](https://www.oodesign.com/)
-         - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
-         - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
+     - [Design Patterns](https://www.oodesign.com/)
+     - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
+     - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
    
    - ### Books
-         - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
+     - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
          
 ## Javascript
    - ### Blogs/Articles/Tutorials
@@ -104,19 +105,19 @@ Useful resources for a software developer
 
 ## Java
    - ### Blogs/Artilces/Tutorials
-         - [Java Tutorial](https://www.tutorialspoint.com/java/)         
-         - [luv2code - Chad Darby](http://www.luv2code.com/)
+     - [Java Tutorial](https://www.tutorialspoint.com/java/)         
+     - [luv2code - Chad Darby](http://www.luv2code.com/)
          
    - ### Video courses
         
          
    - ### Books
-         - [Java Concurrency in Practice - Brian Goetz](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086702&sr=1-1&keywords=java+concurrency&linkCode=sl1&tag=luv2code-20&linkId=ea2d7fe7e39d5125d5302517c5d72c15)
+     - [Java Concurrency in Practice - Brian Goetz](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086702&sr=1-1&keywords=java+concurrency&linkCode=sl1&tag=luv2code-20&linkId=ea2d7fe7e39d5125d5302517c5d72c15)
    
 ## Java - Spring/Spring-Boot
    - ### Blogs/Artilces/Tutorials
-         - [Spring Tutorial](https://www.tutorialspoint.com/spring/)
-         - [Spring Boot Tutorial](https://www.tutorialspoint.com/spring_boot/index.htm)
+     - [Spring Tutorial](https://www.tutorialspoint.com/spring/)
+     - [Spring Boot Tutorial](https://www.tutorialspoint.com/spring_boot/index.htm)
          
    - ### Video courses
         
