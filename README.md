@@ -53,7 +53,10 @@ Useful resources for a software developer
   - ### Books
     - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
     - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
-      
+
+## RxJS
+   - [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+   
 ## Design patterns & SOLID principles
    - ### Blogs/Articles/Tutorials
      - [Design Patterns](https://www.oodesign.com/)
