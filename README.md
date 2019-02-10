@@ -96,7 +96,8 @@ Useful resources for a software developer
      Immutability
      
      Zones
-     
+     - [UNDERSTANDING ZONES - Pascal Precht](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
+     - [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
@@ -157,6 +158,7 @@ Useful resources for a software developer
    - [Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
    - [The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
+   - [Change And Its Detection In JavaScript Frameworks - Tero Parviainen (@teropa)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
    
    Dependency Injection
    - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
