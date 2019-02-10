@@ -228,3 +228,6 @@ Useful resources for a software developer
    - [Notepad++](https://notepad-plus-plus.org/)
    - [Greenshot](https://getgreenshot.org/)
    - [Everything](https://www.voidtools.com/)
+
+## Interview Preparations
+   - [C#, .NET questions](C#_.NET_Questions.md)
