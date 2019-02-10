@@ -46,5 +46,5 @@ The Microsoft .NET Framework is a platform for building, deploying, and running 
 The following illustration shows the relationship of the common language runtime and the class library to your applications and to the overall system. The illustration also shows how managed code operates within a larger architecture.
                                              .NET Framework in context
                                                                                           
-                              <img src=".NET_framework.png" width="1000">
+<img src=".NET_framework.png" width="1000">
 
