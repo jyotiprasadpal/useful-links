@@ -230,4 +230,4 @@ Useful resources for a software developer
    - [Everything](https://www.voidtools.com/)
 
 ## Interview Preparations
-   - [C#, .NET questions](C#_.NET_Questions.md)
+   - [C#, .NET_Questions](C#_.NET_Questions.md)
