@@ -81,6 +81,7 @@ Useful resources for a software developer
      - [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
      - [How to make a beautiful, tiny npm package and publish it](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
      - [How to create and publish your npm package Node module in just 10 minutes](https://medium.freecodecamp.org/how-to-create-and-publish-your-npm-package-node-module-in-just-10-minutes-b8ca3a100050)
+     - [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
      
      Protypical inheritance
      - [Javascript Object Layout/Diagram - mollypages.org](http://www.mollypages.org/tutorials/js.mp)
@@ -110,6 +111,12 @@ Useful resources for a software developer
      - [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
      - [Angular Deep dive — Zone.js — How does it monkey patches various APIs - Manish Bansal](https://medium.com/reverse-engineering-angular/angular-deep-dive-zone-js-how-does-it-monkey-patches-various-apis-9cc1c7fcc321)
    
+      NPM scripts
+      - [npm-scripts](https://docs.npmjs.com/misc/scripts)
+      - [Introduction to NPM Scripts](https://medium.freecodecamp.org/introduction-to-npm-scripts-1dbb2ae01633)
+      - [Running scripts with npm](https://blog.jayway.com/2014/03/28/running-scripts-with-npm/)
+      - [Helpers and tips for npm run scripts](https://michael-kuehnel.de/tooling/2018/03/22/helpers-and-tips-for-npm-run-scripts.html)
+      
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
      - [speakingjs](http://speakingjs.com/es5/)
