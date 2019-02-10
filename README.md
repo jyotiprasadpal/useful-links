@@ -70,12 +70,21 @@ Useful resources for a software developer
    - ### Blogs/Articles/Tutorials
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
-     - [Douglas Crockford](https://www.crockford.com/)
+     - [Douglas Crockford](https://www.crockford.com/)     
      
-     Modules
+     Modules     
+     - [Modules in JavaScript - Axel](http://exploringjs.com/es6/ch_modules.html#sec_modules-in-javascript)
+     - [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers - Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+     - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony - Addy Osmani](https://addyosmani.com/writing-modular-js/)
      - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
+     - [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
+     - [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+     - [How to make a beautiful, tiny npm package and publish it](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
+     - [How to create and publish your npm package Node module in just 10 minutes](https://medium.freecodecamp.org/how-to-create-and-publish-your-npm-package-node-module-in-just-10-minutes-b8ca3a100050)
      
      Protypical inheritance
+     - [Javascript Object Layout/Diagram - mollypages.org](http://www.mollypages.org/tutorials/js.mp)
+     - [JavaScript Object Layout (perspective 2) [Hursh Jain/mollypages.org]](http://www.mollypages.org/tutorials/jsobj2.pdf)
      
      Mixins
      
@@ -97,7 +106,9 @@ Useful resources for a software developer
      
      Zones
      - [UNDERSTANDING ZONES - Pascal Precht](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
+     - [I reverse-engineered Zones (zone.js) and here is what I’ve found - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found-1f48dc87659b)
      - [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
+     - [Angular Deep dive — Zone.js — How does it monkey patches various APIs - Manish Bansal](https://medium.com/reverse-engineering-angular/angular-deep-dive-zone-js-how-does-it-monkey-patches-various-apis-9cc1c7fcc321)
    
    - ### Books
      - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
@@ -129,6 +140,7 @@ Useful resources for a software developer
    - [Best stories of 2018 on Angular-In-Depth](https://blog.angularindepth.com/best-stories-of-2018-on-angular-in-depth-80a1dfa17fd5)
    - [Angular First Look - John Papa](http://angular2-first-look.azurewebsites.net/)   
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
+   - [This is how angular-cli/webpack delivers your CSS styles to the client](https://blog.angularindepth.com/this-is-how-angular-cli-webpack-delivers-your-css-styles-to-the-client-d4adf15c4975)
    
    Directives/Components
    - [Here is why you will not find components inside Angular](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
