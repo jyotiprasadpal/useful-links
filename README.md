@@ -88,7 +88,11 @@ Useful resources for a software developer
      - [JavaScript Object Layout (perspective 2) [Hursh Jain/mollypages.org]](http://www.mollypages.org/tutorials/jsobj2.pdf)
      
      Mixins
-          
+     - [Mixins](https://javascript.info/mixins)
+     - [Black Tower Summoning: Object Composition With Mixins - Jaime González García](https://www.barbarianmeetscoding.com/blog/2015/12/28/black-tower-summoning-object-composition-with-mixins)
+     - [Mixins in JavaScript - Ben Aston](https://medium.com/@benastontweet/mixins-in-javascript-700ec81f5e5c)
+     - [Functional Mixins - Eric Elliott](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
+     
      Iterators and Generators
      - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
      - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
