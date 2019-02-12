@@ -88,12 +88,7 @@ Useful resources for a software developer
      - [JavaScript Object Layout (perspective 2) [Hursh Jain/mollypages.org]](http://www.mollypages.org/tutorials/jsobj2.pdf)
      
      Mixins
-     
-     Event loop
-     - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
-     - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
-     - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
-     
+          
      Iterators and Generators
      - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
      - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
@@ -105,10 +100,15 @@ Useful resources for a software developer
      
      Immutability
      
+     Event loop
+     - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+     - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
+     - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
+     
      Zones
      - [UNDERSTANDING ZONES - Pascal Precht](https://blog.thoughtram.io/angular/2016/01/22/understanding-zones.html)
-     - [I reverse-engineered Zones (zone.js) and here is what I’ve found - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found-1f48dc87659b)
-     - [Brian Ford - Zones - NG-Conf 2014](https://www.youtube.com/watch?v=3IqtmUscE_U)
+     - [Brian Ford - Zones - NG-Conf 2014 - Video](https://www.youtube.com/watch?v=3IqtmUscE_U)
+     - [I reverse-engineered Zones (zone.js) and here is what I’ve found - Max Koretskyi, aka Wizard](https://blog.angularindepth.com/i-reverse-engineered-zones-zone-js-and-here-is-what-ive-found-1f48dc87659b)     
      - [Angular Deep dive — Zone.js — How does it monkey patches various APIs - Manish Bansal](https://medium.com/reverse-engineering-angular/angular-deep-dive-zone-js-how-does-it-monkey-patches-various-apis-9cc1c7fcc321)
    
      NPM scripts
@@ -172,24 +172,29 @@ Useful resources for a software developer
    - [The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)     
    - [If you think `ngDoCheck` means your component is being checked — read this article](https://blog.angularindepth.com/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article-36ce63a3f3e5)
    
+   Dependency Injection
+   - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
+   - [Dependency Injection in Angular 2 by Pascal Precht - Videp](https://www.youtube.com/watch?v=ZefFBqBncOM)
+   
    Change Detection       
-   - [ANGULAR CHANGE DETECTION EXPLAINED](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
+   - [ANGULAR CHANGE DETECTION EXPLAINED - Pascal Precht](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
    - [Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
+   - [NG-NL 2016: Pascal Precht - Angular 2 Change Detection Explained - Video](https://www.youtube.com/watch?v=CUxD91DWkGM)
+   - [NG-NL 2016: Pascal Precht - Angular 2 Change Detection Explained - Slides](https://pascalprecht.github.io/slides/angular-2-change-detection-explained/#/)
    - [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
    - [A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
-   - [ZONES IN ANGULAR](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
+   - [ZONES IN ANGULAR - Pascal Precht](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
    - [Do you still think that NgZone (zone.js) is required for change detection in Angular?](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)
    - [Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
    - [The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
-   - [Change And Its Detection In JavaScript Frameworks - Tero Parviainen (@teropa)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
-   
-   Dependency Injection
-   - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
+   - [Change And Its Detection In JavaScript Frameworks - Tero Parviainen (@teropa)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)      
    
    Performance
    - [Angular Performance Checklist](https://github.com/mgechev/angular-performance-checklist)
-   
+   - [Optimizing the Performance of Your Angular Application - Netanel Basal](https://netbasal.com/optimizing-the-performance-of-your-angular-application-f222f1c16354)
+   - [USING ZONES IN ANGULAR FOR BETTER PERFORMANCE - Pascal Precht](https://blog.thoughtram.io/angular/2017/02/21/using-zones-in-angular-for-better-performance.html)
+   - [MAKING YOUR ANGULAR APPS FAST - Pascal Precht](https://blog.thoughtram.io/angular/2017/02/02/making-your-angular-app-fast.html)         
    Create an angular library
    - [Angular Workspace: No Application for You!](https://blog.angularindepth.com/angular-workspace-no-application-for-you-4b451afcc2ba)
    - [The Angular Library Series - Creating a Library with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
