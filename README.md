@@ -166,6 +166,10 @@ Useful resources for a software developer
    
    Modules
    - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
+   - [Understanding Angular modules (NgModule) and their scopes - Cyrille Tuzi](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
+   - [Introducing Angular Modules - Root Module - John Papa](https://johnpapa.net/introducing-angular-modules-root-module/)
+   - [Introducing Angular Modules - Routing Module - John Papa](https://johnpapa.net/introducing-angular-modules-routing-module/)
+   - [Introducing Angular Modules - Feature Modules - John Papa](https://johnpapa.net/introducing-angular-modules-feature-modules-2/)
    
    DOM manipulation
    - [Understanding @ViewChildren, @ViewChild, @ContentChildren and @ContentChild](https://medium.com/@tkssharma/understanding-viewchildren-viewchild-contentchildren-and-contentchild-b16c9e0358e)
@@ -215,6 +219,9 @@ Useful resources for a software developer
    Debugging
    - [Everything you need to know about debugging Angular applications](https://blog.angularindepth.com/everything-you-need-to-know-about-debugging-angular-applications-d308ed8a51b4)
    - [Angular Augury - A Chrome and Firefox Dev Tools extension for debugging Angular applications.](https://augury.rangle.io/)
+   
+   Deployment
+   
    
 ## Java
    - ### Blogs/Artilces/Tutorials
