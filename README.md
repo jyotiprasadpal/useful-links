@@ -163,6 +163,7 @@ Useful resources for a software developer
    - [Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
    - [Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
    - [The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
+   - [How to write good, composable and pure components in Angular 2+ - Jack Tomaszewski](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43)
    
    Modules
    - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
@@ -221,7 +222,7 @@ Useful resources for a software developer
    - [Angular Augury - A Chrome and Firefox Dev Tools extension for debugging Angular applications.](https://augury.rangle.io/)
    
    Deployment
-   
+   - [5 Tips Before Deploying your Angular Apps to Production - Rik de Vos](https://medium.com/@rikdevos/5-tips-before-deploying-your-angular-apps-to-production-8313d87600ce)
    
 ## Java
    - ### Blogs/Artilces/Tutorials
