@@ -84,8 +84,9 @@ Useful resources for a software developer
      - [ECMAScript 6: new OOP features besides classes - Axel Rauschmayer](http://2ality.com/2014/12/es6-oop.html)
      
      Protypical inheritance
+     - [Axel Rauschmayer: JavaScript inheritance: beyond the basics](https://www.youtube.com/watch?v=NyClWddeO_A)
      - [Javascript Object Layout/Diagram - mollypages.org](http://www.mollypages.org/tutorials/js.mp)
-     - [JavaScript Object Layout (perspective 2) [Hursh Jain/mollypages.org]](http://www.mollypages.org/tutorials/jsobj2.pdf)
+     - [JavaScript Object Layout (perspective 2) [Hursh Jain/mollypages.org]](http://www.mollypages.org/tutorials/jsobj2.pdf)     
      
      Mixins
      - [Mixins](https://javascript.info/mixins)
@@ -138,9 +139,10 @@ Useful resources for a software developer
      - [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
     
    - ### Books
-     - [Exploring JS: JavaScript books for programmers](http://exploringjs.com/)
-     - [speakingjs](http://speakingjs.com/es5/)
-     - [Exploring ES6](http://exploringjs.com/es6.html)
+     - [Exploring JS: JavaScript books for programmers - Axel Rauschmayer](http://exploringjs.com/)
+     - [speakingjs - Axel Rauschmayer](http://speakingjs.com/es5/)
+     - [Exploring ES6 - Axel Rauschmayer](http://exploringjs.com/es6.html)
+     - [Behind the scenes of my latest book on JavaScript - Axel Rauschmayer](http://2ality.com/2018/08/impatient-js.html)
      - [Understanding ECMASCRIPT 6](https://leanpub.com/understandinges6/read)
      - [You-Dont-Know-JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)     
      - [javascript-allonge](https://github.com/raganwald/javascript-allonge)
