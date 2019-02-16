@@ -50,7 +50,8 @@ Useful resources for a software developer
      - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
      - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
   
-     Immutability
+       Immutability
+     - [The State of Immutability - Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
      - [Learn immutability with JavaScript - Cristi Salcescu](https://medium.com/@cristisalcescu/learn-immutability-with-javascript-6a67e4a48d7f)
      - [Understanding Immutable State with Immutable.js and Typescript - Mateusz Sokola](https://medium.com/@mateuszsokola/understanding-immutable-state-with-immutable-js-and-typescript-91a9ba648fe5)
      - [Understanding Immutability - By Waqqas Sheikh](https://medium.com/tribalscale/understanding-immutability-fdd627b66e58)
