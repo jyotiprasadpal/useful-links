@@ -71,7 +71,7 @@ Useful resources for a software developer
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
      - [Douglas Crockford](https://www.crockford.com/)
-     
+         
      this
      - [JavaScript’s this: how it works, where it can trip you up - Axel Rauschmayer](http://2ality.com/2014/05/this.html)
      - [A different way of understanding this in JavaScript - Axel Rauschmayer](http://2ality.com/2017/12/alternate-this.html)
@@ -117,6 +117,7 @@ Useful resources for a software developer
      Immutability
      
      Event loop
+     - [Philip Roberts Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0&list=PLtPSzUi0PU8rhvtf-kEV5k7YkLGshynfS&index=5&t=0s)
      - [What the heck is the event loop anyway? | Philip Roberts | JSConf EU](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
      - [JavaScript Event Loop Explained](https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4)
      - [THE JAVASCRIPT EVENT LOOP](https://flaviocopes.com/javascript-event-loop/)
