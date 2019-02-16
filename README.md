@@ -70,18 +70,18 @@ Useful resources for a software developer
    - ### Blogs/Articles/Tutorials
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
-     - [Douglas Crockford](https://www.crockford.com/)     
+     - [Douglas Crockford](https://www.crockford.com/)
      
-     Modules     
-     - [Modules in JavaScript - Axel](http://exploringjs.com/es6/ch_modules.html#sec_modules-in-javascript)
-     - [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers - Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
-     - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony - Addy Osmani](https://addyosmani.com/writing-modular-js/)
-     - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
-     - [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
-     - [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
-     - [How to make a beautiful, tiny npm package and publish it](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
-     - [How to create and publish your npm package Node module in just 10 minutes](https://medium.freecodecamp.org/how-to-create-and-publish-your-npm-package-node-module-in-just-10-minutes-b8ca3a100050)
-     - [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
+     this
+     - [JavaScript’s this: how it works, where it can trip you up - Axel Rauschmayer](http://2ality.com/2014/05/this.html)
+     - [A different way of understanding this in JavaScript - Axel Rauschmayer](http://2ality.com/2017/12/alternate-this.html)
+     
+     Scopes, Environments and Closures
+     - [Chapter 16. Variables: Scopes, Environments, and Closures - Axel Rauschmayer](http://speakingjs.com/es5/ch16.html)
+     
+     JS OOP
+     - [The Four Layers of JavaScript OOP - O'Reilly Webcast - Vide0 - Axel Rauschmayer](https://www.youtube.com/watch?v=VJOTcUsD2kA&t=6m16s)
+     - [ECMAScript 6: new OOP features besides classes - Axel Rauschmayer](http://2ality.com/2014/12/es6-oop.html)
      
      Protypical inheritance
      - [Javascript Object Layout/Diagram - mollypages.org](http://www.mollypages.org/tutorials/js.mp)
@@ -93,9 +93,20 @@ Useful resources for a software developer
      - [Mixins in JavaScript - Ben Aston](https://medium.com/@benastontweet/mixins-in-javascript-700ec81f5e5c)
      - [Functional Mixins - Eric Elliott](https://medium.com/javascript-scene/functional-mixins-composing-software-ffb66d5e731c)
      
+     Modules     
+     - [Modules in JavaScript - Axel Rauschmayer](http://exploringjs.com/es6/ch_modules.html#sec_modules-in-javascript)
+     - [A 10 minute primer to JavaScript modules, module formats, module loaders and module bundlers - Jurgen Van de Moere](https://www.jvandemo.com/a-10-minute-primer-to-javascript-modules-module-formats-module-loaders-and-module-bundlers/)
+     - [Writing Modular JavaScript With AMD, CommonJS & ES Harmony - Addy Osmani](https://addyosmani.com/writing-modular-js/)
+     - [JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015](https://auth0.com/blog/javascript-module-systems-showdown/)
+     - [CommonJS vs AMD vs RequireJS vs ES6 Modules](https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b)
+     - [How to Create and Publish Your First Node.js Module](https://codeburst.io/how-to-create-and-publish-your-first-node-js-module-444e7585b738)
+     - [How to make a beautiful, tiny npm package and publish it](https://medium.freecodecamp.org/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78)
+     - [How to create and publish your npm package Node module in just 10 minutes](https://medium.freecodecamp.org/how-to-create-and-publish-your-npm-package-node-module-in-just-10-minutes-b8ca3a100050)
+     - [Creating Node.js modules](https://docs.npmjs.com/creating-node-js-modules)
+     
      Iterators and Generators
-     - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)
-     - [Iterables and iterators - Axel](http://exploringjs.com/es6/ch_iteration.html)     
+     - [Iterables and iterators - Axel Rauschmayer](http://exploringjs.com/es6/ch_iteration.html)
+     - [ES6 Iterators and Generators by example - Max Wizard](https://medium.com/dailyjs/es6-iterators-and-generators-by-example-d728bfa00c3a)         
      
      Garbage collection/Memory management
      
