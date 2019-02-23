@@ -149,6 +149,7 @@ Useful resources for a software developer
      - [Exploring JS: JavaScript books for programmers - Axel Rauschmayer](http://exploringjs.com/)
      - [speakingjs - Axel Rauschmayer](http://speakingjs.com/es5/)
      - [Exploring ES6 - Axel Rauschmayer](http://exploringjs.com/es6.html)
+     - [Setting up ES6- Axel Rauschmayer](https://leanpub.com/setting-up-es6/read)
      - [Behind the scenes of my latest book on JavaScript - Axel Rauschmayer](http://2ality.com/2018/08/impatient-js.html)
      - [Understanding ECMASCRIPT 6](https://leanpub.com/understandinges6/read)
      - [You-Dont-Know-JS - Kyle Simpson](https://github.com/getify/You-Dont-Know-JS)     
