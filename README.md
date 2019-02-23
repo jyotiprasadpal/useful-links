@@ -77,7 +77,8 @@ Useful resources for a software developer
      - [JavaScript - MDN Web docs](https://developer.mozilla.org/bm/docs/Web/JavaScript)
      - [2ality – JavaScript and more](http://2ality.blogspot.com/)
      - [Douglas Crockford](https://www.crockford.com/)
-         
+     - [Blogs - Nicholas C. Zakas](https://www.nczonline.net)
+     
      this
      - [JavaScript’s this: how it works, where it can trip you up - Axel Rauschmayer](http://2ality.com/2014/05/this.html)
      - [A different way of understanding this in JavaScript - Axel Rauschmayer](http://2ality.com/2017/12/alternate-this.html)
@@ -121,6 +122,8 @@ Useful resources for a software developer
      - [Understanding Enumerations](https://blog.angularindepth.com/understanding-enumerations-f02935d4a66c)
      
      Immutability
+     - [Immutability in JavaScript - By Christian Johansen](https://www.sitepoint.com/immutability-javascript/)
+     - [If immutable objects are good, why do people keep creating mutable objects?](https://softwareengineering.stackexchange.com/questions/151733/if-immutable-objects-are-good-why-do-people-keep-creating-mutable-objects)
      
      Event loop
      - [Philip Roberts Help I'm stuck in an event loop](https://www.youtube.com/watch?v=6MXRNXXgP_0&list=PLtPSzUi0PU8rhvtf-kEV5k7YkLGshynfS&index=5&t=0s)
