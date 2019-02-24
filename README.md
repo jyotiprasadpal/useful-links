@@ -111,45 +111,46 @@ Useful resources for a software developer
    - [48 answers on StackOverflow to the most popular Angular questions](https://medium.freecodecamp.org/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0)
    - [This is how angular-cli/webpack delivers your CSS styles to the client](https://blog.angularindepth.com/this-is-how-angular-cli-webpack-delivers-your-css-styles-to-the-client-d4adf15c4975)
    
-   Directives/Components
-   - [Here is why you will not find components inside Angular](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
-   - [Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
-   - [Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
-   - [The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
-   - [The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
-   - [How to write good, composable and pure components in Angular 2+ - Jack Tomaszewski](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43)
-   
    Modules
-   - [Avoiding common confusions with modules in Angular](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
+   - [Avoiding common confusions with modules in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/avoiding-common-confusions-with-modules-in-angular-ada070e6891f)
    - [Understanding Angular modules (NgModule) and their scopes - Cyrille Tuzi](https://medium.com/@cyrilletuzi/understanding-angular-modules-ngmodule-and-their-scopes-81e4ed6f7407)
    - [Introducing Angular Modules - Root Module - John Papa](https://johnpapa.net/introducing-angular-modules-root-module/)
    - [Introducing Angular Modules - Routing Module - John Papa](https://johnpapa.net/introducing-angular-modules-routing-module/)
    - [Introducing Angular Modules - Feature Modules - John Papa](https://johnpapa.net/introducing-angular-modules-feature-modules-2/)
    
-   DOM manipulation
-   - [Understanding @ViewChildren, @ViewChild, @ContentChildren and @ContentChild](https://medium.com/@tkssharma/understanding-viewchildren-viewchild-contentchildren-and-contentchild-b16c9e0358e)
-   - [Exploring Angular DOM manipulation techniques using ViewContainerRef](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
-   - [Here is how to get ViewContainerRef before @ViewChild query is evaluated](https://blog.angularindepth.com/here-is-how-to-get-viewcontainerref-before-viewchild-query-is-evaluated-f649e51315fb)
-   
-   Component life cycle
-   - [The essential difference between Constructor and ngOnInit in Angular](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)     
-   - [If you think `ngDoCheck` means your component is being checked — read this article](https://blog.angularindepth.com/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article-36ce63a3f3e5)
+   Directives/Components
+   - [Here is why you will not find components inside Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/here-is-why-you-will-not-find-components-inside-angular-bdaf204d955c)
+   - [Do you really know what unidirectional data flow means in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
+   - [Here is what you need to know about dynamic components in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
+   - [The mechanics of property bindings update in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)   
+   - [How to write good, composable and pure components in Angular 2+ - Jack Tomaszewski](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43)      
    
    Dependency Injection
    - [What you always wanted to know about Angular Dependency Injection tree](https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d)
    - [Dependency Injection in Angular 2 by Pascal Precht - Videp](https://www.youtube.com/watch?v=ZefFBqBncOM)
+   
+   DOM manipulation
+   - [The mechanics of DOM updates in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
+   - [Understanding @ViewChildren, @ViewChild, @ContentChildren and @ContentChild - Max Koretskyi aka Wizard](https://medium.com/@tkssharma/understanding-viewchildren-viewchild-contentchildren-and-contentchild-b16c9e0358e)
+   - [Exploring Angular DOM manipulation techniques using ViewContainerRef - Max Koretskyi aka Wizard](https://blog.angularindepth.com/exploring-angular-dom-abstractions-80b3ebcfc02)
+   - [Here is how to get ViewContainerRef before @ViewChild query is evaluated - Max Koretskyi aka Wizard](https://blog.angularindepth.com/here-is-how-to-get-viewcontainerref-before-viewchild-query-is-evaluated-f649e51315fb)
+   
+   Component life cycle
+   - [The essential difference between Constructor and ngOnInit in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/the-essential-difference-between-constructor-and-ngoninit-in-angular-c9930c209a42)     
+   - [If you think `ngDoCheck` means your component is being checked — read this article - Max Koretskyi aka Wizard](https://blog.angularindepth.com/if-you-think-ngdocheck-means-your-component-is-being-checked-read-this-article-36ce63a3f3e5)      
+   - [The difference between NgDoCheck and AsyncPipe in OnPush components - Max Koretskyi aka Wizard](https://blog.angularindepth.com/the-difference-between-ngdocheck-and-asyncpipe-in-onpush-components-4918ec4b29d4)
    
    Change Detection       
    - [ANGULAR CHANGE DETECTION EXPLAINED - Pascal Precht](https://blog.thoughtram.io/angular/2016/02/22/angular-2-change-detection-explained.html)
    - [Change Detection in Angular](https://vsavkin.com/change-detection-in-angular-2-4f216b855d4c)
    - [NG-NL 2016: Pascal Precht - Angular 2 Change Detection Explained - Video](https://www.youtube.com/watch?v=CUxD91DWkGM)
    - [NG-NL 2016: Pascal Precht - Angular 2 Change Detection Explained - Slides](https://pascalprecht.github.io/slides/angular-2-change-detection-explained/#/)
-   - [These 5 articles will make you an Angular Change Detection expert](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
-   - [A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
+   - [These 5 articles will make you an Angular Change Detection expert - Max Koretskyi aka Wizard](https://blog.angularindepth.com/these-5-articles-will-make-you-an-angular-change-detection-expert-ed530d28930)
+   - [A gentle introduction into change detection in Angular - Max Koretskyi aka Wizard](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
    - [ZONES IN ANGULAR - Pascal Precht](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
-   - [Do you still think that NgZone (zone.js) is required for change detection in Angular?](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)
+   - [Do you still think that NgZone (zone.js) is required for change detection in Angular? - Max Koretskyi aka Wizard](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)
    - [Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)   
-   - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
+   - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right - Max Koretskyi aka Wizard](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)   
    - [Change And Its Detection In JavaScript Frameworks - Tero Parviainen (@teropa)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)      
    
    Performance
