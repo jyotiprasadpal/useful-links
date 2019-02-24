@@ -1,76 +1,5 @@
 # **Useful resources**
 Useful resources for a software developer
-
-## Data structures and algorithms
-   - ### Blogs/Artilces/Tutorials
-     Divide and Conquer
-     - [Divide and Conquer - geeksforgeeks](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
-     
-     Dynamic programming
-     - [Dynamic Programming - geeksforgeeks](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
-     
-     Greedy algorithms
-     - [Greedy Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/greedy-algorithms/)
-     
-     Two pointer technique
-     - [Two pointer technique - leetcode](https://leetcode.com/articles/two-pointer-technique/)
-     - [Two pointer technique - geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
-     - [Two pointer technique - hackerrank](https://www.hackerrank.com/challenges/pairs/topics)
-         
-     Frequency counter technique
-     
-     Backtracking
-     
-   - ### Video courses
-        
-         
-   - ### Books
-     - [Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N32J05C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1549697476&sr=1-1&keywords=data+structures+and+algorithms+made+easy+in+java)
-         
-   - ### Questions to practice
-     - [leetcode](https://leetcode.com/problemset/all/)
-     - [geeksforgeeks](https://www.geeksforgeeks.org/)
-   
-## Object oriented programming
-
-## Functional programming
-   - ### Blogs/Articles/Tutorials
-     - [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
-     - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
-     - [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
-     - [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
-     - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
-     - [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
-     - [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
-     - [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
-     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/monads.html)
-     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/03/implementing-monads-in-javascript.html)
-     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-monad-laws-and-state-monad-in.html)
-     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-promise-monad-in-javascript.html)
-     - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
-     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
-  
-       Immutability
-     - [The State of Immutability - Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
-     - [Learn immutability with JavaScript - Cristi Salcescu](https://medium.com/@cristisalcescu/learn-immutability-with-javascript-6a67e4a48d7f)
-     - [Understanding Immutable State with Immutable.js and Typescript - Mateusz Sokola](https://medium.com/@mateuszsokola/understanding-immutable-state-with-immutable-js-and-typescript-91a9ba648fe5)
-     - [Understanding Immutability - By Waqqas Sheikh](https://medium.com/tribalscale/understanding-immutability-fdd627b66e58)
-     
-  - ### Books
-    - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
-    - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
-
-## RxJS
-   - [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
-   
-## Design patterns & SOLID principles
-   - ### Blogs/Articles/Tutorials
-     - [Design Patterns](https://www.oodesign.com/)
-     - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
-     - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
-   
-   - ### Books
-     - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
          
 ## Javascript/Typescript
    - ### Blogs/Articles/Tutorials
@@ -187,6 +116,7 @@ Useful resources for a software developer
    - [Do you really know what unidirectional data flow means in Angular](https://blog.angularindepth.com/do-you-really-know-what-unidirectional-data-flow-means-in-angular-a6f55cefdc63)
    - [Here is what you need to know about dynamic components in Angular](https://blog.angularindepth.com/here-is-what-you-need-to-know-about-dynamic-components-in-angular-ac1e96167f9e)
    - [The mechanics of property bindings update in Angular](https://blog.angularindepth.com/the-mechanics-of-property-bindings-update-in-angular-39c0812bc4ce)
+   - [The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
    - [How to write good, composable and pure components in Angular 2+ - Jack Tomaszewski](https://medium.com/@thejasonfile/dumb-components-and-smart-components-e7b33a698d43)
    
    Modules
@@ -218,8 +148,7 @@ Useful resources for a software developer
    - [A gentle introduction into change detection in Angular](https://blog.angularindepth.com/a-gentle-introduction-into-change-detection-in-angular-33f9ffff6f10)
    - [ZONES IN ANGULAR - Pascal Precht](https://blog.thoughtram.io/angular/2016/02/01/zones-in-angular-2.html)
    - [Do you still think that NgZone (zone.js) is required for change detection in Angular?](https://blog.angularindepth.com/do-you-still-think-that-ngzone-zone-js-is-required-for-change-detection-in-angular-16f7a575afef)
-   - [Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)
-   - [The mechanics of DOM updates in Angular](https://blog.angularindepth.com/the-mechanics-of-dom-updates-in-angular-3b2970d5c03d)
+   - [Everything you need to know about change detection in Angular](https://blog.angularindepth.com/everything-you-need-to-know-about-change-detection-in-angular-8006c51d206f)   
    - [He who thinks change detection is depth-first and he who thinks it’s breadth-first are both usually right](https://blog.angularindepth.com/he-who-thinks-change-detection-is-depth-first-and-he-who-thinks-its-breadth-first-are-both-usually-8b6bf24a63e6)
    - [Change And Its Detection In JavaScript Frameworks - Tero Parviainen (@teropa)](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)      
    
@@ -281,6 +210,77 @@ Useful resources for a software developer
      - [Visual Studio](https://visualstudio.microsoft.com/)
      - [Regex](http://regexstorm.net/) 
 
+## Data structures and algorithms
+   - ### Blogs/Artilces/Tutorials
+     Divide and Conquer
+     - [Divide and Conquer - geeksforgeeks](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+     
+     Dynamic programming
+     - [Dynamic Programming - geeksforgeeks](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
+     
+     Greedy algorithms
+     - [Greedy Algorithms - geeksforgeeks](https://www.geeksforgeeks.org/greedy-algorithms/)
+     
+     Two pointer technique
+     - [Two pointer technique - leetcode](https://leetcode.com/articles/two-pointer-technique/)
+     - [Two pointer technique - geeksforgeeks](https://www.geeksforgeeks.org/two-pointers-technique/)
+     - [Two pointer technique - hackerrank](https://www.hackerrank.com/challenges/pairs/topics)
+         
+     Frequency counter technique
+     
+     Backtracking
+     
+   - ### Video courses
+        
+         
+   - ### Books
+     - [Data Structures and Algorithms Made Easy in Java: Data Structure and Algorithmic Puzzles](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy-ebook/dp/B01N32J05C/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1549697476&sr=1-1&keywords=data+structures+and+algorithms+made+easy+in+java)
+         
+   - ### Questions to practice
+     - [leetcode](https://leetcode.com/problemset/all/)
+     - [geeksforgeeks](https://www.geeksforgeeks.org/)
+   
+## Object oriented programming
+
+## Functional programming
+   - ### Blogs/Articles/Tutorials
+     - [what-is-functional-programming](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+     - [Why Learn Functional Programming in JavaScript?](https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257)
+     - [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
+     - [Reduce (Composing Software)](https://medium.com/javascript-scene/reduce-composing-software-fe22f0c39a1d)
+     - [Functors & Categories](https://medium.com/javascript-scene/functors-categories-61e031bac53f)
+     - [Javascript Functor, Applicative, Monads in pictures](https://medium.com/@tzehsiang/javascript-functor-applicative-monads-in-pictures-b567c6415221)
+     - [The Rise and Fall and Rise of Functional Programming (Composing Software)](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+     - [A Fistful of Monads](http://learnyouahaskell.com/a-fistful-of-monads)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/monads.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/03/implementing-monads-in-javascript.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-monad-laws-and-state-monad-in.html)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/04/the-promise-monad-in-javascript.html)
+     - [What is a functor?](https://medium.com/@dtinth/what-is-a-functor-dcf510b098b6)
+     - [Functional JavaScript](http://functionaljavascript.blogspot.com/2013/07/functors.html)
+  
+       Immutability
+     - [The State of Immutability - Maciej Sikora](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
+     - [Learn immutability with JavaScript - Cristi Salcescu](https://medium.com/@cristisalcescu/learn-immutability-with-javascript-6a67e4a48d7f)
+     - [Understanding Immutable State with Immutable.js and Typescript - Mateusz Sokola](https://medium.com/@mateuszsokola/understanding-immutable-state-with-immutable-js-and-typescript-91a9ba648fe5)
+     - [Understanding Immutability - By Waqqas Sheikh](https://medium.com/tribalscale/understanding-immutability-fdd627b66e58)
+     
+  - ### Books
+    - [Functional-Light-JS - Kyle Simpson](https://github.com/getify/Functional-Light-JS)
+    - [Functional Programming in Javascript - Luis Atencio](https://www.amazon.in/Functional-Programming-Javascript-Luis-Atencio/dp/1617292826/ref=olp_product_details?_encoding=UTF8&me=&qid=1549696992&sr=1-2-catcorr)
+
+## RxJS
+   - [Learn to combine RxJs sequences with super intuitive interactive diagrams](https://blog.angularindepth.com/learn-to-combine-rxjs-sequences-with-super-intuitive-interactive-diagrams-20fce8e6511)
+   
+## Design patterns & SOLID principles
+   - ### Blogs/Articles/Tutorials
+     - [Design Patterns](https://www.oodesign.com/)
+     - [The SOLID Principles - Richard Carr](http://www.blackwasp.co.uk/SOLID.aspx)
+     - [Liskov Substitution Principle - Richard Carr](http://www.blackwasp.co.uk/lsp.aspx)
+   
+   - ### Books
+     - [Head First Design Patterns: A Brain-Friendly Guide - Eric Freeman](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1453086523&sr=1-1&keywords=java+design+patterns&linkCode=sl1&tag=luv2code-20&linkId=053f4de8e56877293c87d94e71b3f71d)
+     
 ## Unix, Linux
    - [PuTTY](https://www.putty.org/)
 
